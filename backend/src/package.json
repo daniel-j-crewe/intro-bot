@@ -1,0 +1,23 @@
+{
+  "name": "intro-bot",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "A Javascript Discord bot that plays an introduction for configured users.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-j-crewe/intro-bot.git"
+  },
+  "author": "daniel-j-crewe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-j-crewe/intro-bot/issues"
+  },
+  "homepage": "https://github.com/daniel-j-crewe/intro-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}
